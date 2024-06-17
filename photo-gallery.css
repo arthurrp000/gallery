@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+    width: 100%;
+    height: auto;
+    font-family:'Segoe UI';
+}
+
+h1{
+    color:white;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+p{
+    color: white;
+
+
+
+
+}
+
+img{
+    height: 450px;
+    width: 500px;
+    border-radius: 12px;
+    
+}
+
+.dunks{
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    gap: 10px 20px;
+    row-gap: 10px;
+    column-gap: 20px;
+    flex-direction:row;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content:center;
+}
+
+
+
